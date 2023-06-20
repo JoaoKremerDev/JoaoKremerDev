@@ -4,6 +4,8 @@ My name is João Kremer, and in October 2022, I decided to make a career transit
 
 In addition to my studies, I am also part of the SouJunior open-source project, where I contribute to the development of an application that will match companies and juniors in search of their first job in the technology field. You can learn more about the project at www.soujunior.tech.
 
+I'm currently working in Dopster as a Front-end Developer.
+
 <h2>Currently, I am studying Software Engineering at Estácio University, in order to further improve my knowledge and skills in the technology area. </h2>
 
 ## 🌐 Socials:
