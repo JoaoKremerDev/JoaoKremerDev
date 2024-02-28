@@ -1,12 +1,8 @@
 # 💫 About Me:
 <h1>Hello World!🖐 </h1>
-My name is João Kremer, and in October 2022, I decided to make a career transition to the front-end development area. Since then, I have been studying and improving my knowledge in the most used technologies in this market.
+My name is João Kremer, and in October 2022, I decided to make a career transition to the front-end development area. Since then, I have been studying and improving my knowledge in the most used technologies in this market. At this moment i work as team leader and pleno front-end developer at an startup called Dopster.
 
-In addition to my studies, I am also part of the SouJunior open-source project, where I contribute to the development of an application that will match companies and juniors in search of their first job in the technology field. You can learn more about the project at www.soujunior.tech.
-
-I'm currently working in Dopster as a Front-end Developer.
-
-<h2>Currently, I am studying Software Engineering at Estácio University, in order to further improve my knowledge and skills in the technology area. </h2>
+I am at the Software Engineer University.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/joaokremer#2691) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Joao_kremer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joaokremer) 
